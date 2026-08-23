@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GPolinard
-- 🌱 Currently learning Software Engineering at the University of Texas at Dallas
+- 🌱 Currently learning Software Engineering at LSUS
 
 <!---
 GPolinard/GPolinard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
